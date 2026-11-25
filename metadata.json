@@ -1,0 +1,6 @@
+{
+  "name": "WEDSYNC",
+  "description": "Wedding Marketplace, Planner, and Role-Based Vendor Management Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
